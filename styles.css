@@ -1,7 +1,19 @@
+* {
+box-sizing: border-box;
+}
+
 body {
   background-color: #FDF0D5;
   color: #C1121F;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 30px;
+  font-size: 25px;
 }
 
+h1 {
+  background-color: #DDA15E;
+  padding: 30px;
+  width: 500x;
+  margin: 0 auto;
+  border: 5px solid #DC6C25;
+  text-align: center;
+}
