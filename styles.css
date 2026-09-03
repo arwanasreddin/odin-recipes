@@ -34,3 +34,8 @@ img {
   border-radius: 10px;
   display: block;
 }
+
+.line {
+  text-decoration-line: underline overline;
+  text-decoration-color: #306D29;
+} 
