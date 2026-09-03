@@ -30,8 +30,8 @@ h1 {
 }
 
 img {
-  width: 640px;
-  height: 427px;
+  width: 1000px;
+  height: auto;
   margin: auto;
   border-radius: 10px;
   display: block;
