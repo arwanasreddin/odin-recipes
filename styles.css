@@ -7,8 +7,8 @@ body {
   color: #0D530E;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
-  width: 800px;
-  margin: 30px;
+  width: 1000px;
+  margin: 0px auto;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
   padding: 20px;
   margin-bottom: 25px;
   text-align: center;
-  width: 800px;
+  width: 1000px;
 }
 
 .links {
@@ -31,7 +31,8 @@ h1 {
 }
 
 img {
-  width: 800px;
+  width: 1000px;
+  margin: 0px auto;
   border-radius: 10px;
   display: block;
 }
