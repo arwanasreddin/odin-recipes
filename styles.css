@@ -31,8 +31,8 @@ h1 {
 }
 
 img {
-  width: 750px;
-  margin-left: 25px;
+  width: 1000px;
+  margin-left: auto;
   border-radius: 10px;
   display: block;
 }
